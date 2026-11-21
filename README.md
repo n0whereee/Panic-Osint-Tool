@@ -72,7 +72,7 @@ python main.py
 
 ## Usage
 
-After completing the installation, launch the tool using `setup.bat` or run it manually:
+After completing the installation, launch the application using `setup.bat` or run it manually:
 
 ```bash
 python main.py
