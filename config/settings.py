@@ -4,9 +4,8 @@ import os
 import sys
 import platform
 import time
-from phonenumbers import geocoder, carrier, timezone
-from phonenumbers import is_valid_number, is_possible_number, region_code_for_number, number_type
-from phonenumbers import format_number, PhoneNumberFormat
+from phonenumbers import geocoder, carrier, timezone, PhoneNumberFormat
+from phonenumbers import is_valid_number, is_possible_number, region_code_for_number, number_type, format_number
 import phonenumbers
 import re
 import PIL.Image

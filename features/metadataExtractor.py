@@ -88,8 +88,8 @@ def extractMetadata():
             else:
                 pass
 
-        except Exception:
+        except Exception as e:
             print("")
-            print(f"{bracketOpen}{Fore.WHITE}!{Style.RESET_ALL}{bracketClosed}{Fore.RED} Metadata could not be extracted{Style.RESET_ALL}")
+            print(f"{bracketOpen}{Fore.WHITE}!{Style.RESET_ALL}{bracketClosed}{Fore.RED} Failed to extract metadata :{Style.RESET_ALL} {e}")
             time.sleep(2)
         

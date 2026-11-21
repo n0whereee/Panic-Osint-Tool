@@ -20,5 +20,7 @@ def main():
             lookupPhone()
         elif command == "4" or command == "04":
             extractMetadata()
+        elif command == "5" or command == "05":
+            sys.exit()
 
 main()
