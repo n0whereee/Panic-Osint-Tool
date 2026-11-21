@@ -6,7 +6,7 @@ A simple osint toolkit for username, IP address, phone number, and metadata look
 
 ## Features
 
-### OSINT Tools
+### Osint Tools
 - Username Lookup
 - IP Lookup
 - Phone Lookup
