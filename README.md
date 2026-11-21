@@ -1,4 +1,4 @@
-# Panic OSINT
+# Panic Osint Tool
 
 An OSINT toolkit for username, IP address, phone number, and metadata lookups.
 
